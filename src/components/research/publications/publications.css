@@ -1,0 +1,44 @@
+/* .year{
+    width: 1741px;
+    height: 35px;
+    background: linear-gradient(120deg, rgb(155, 216, 240) 1%, rgb(249, 180, 249) 110%);
+    align-content: center;
+}
+.subrows{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    line-height: 25px;
+    border: 1px solid grey;
+}
+.subrows div{
+    border-right: 1px solid grey;
+    width: 200px;
+    box-sizing: border-box;
+    text-align: center;
+    align-content: center;
+    word-wrap: break-word;
+}
+
+body{
+    padding-top: 80px;
+}
+.container {
+width: 60%;
+max-width: 800px;
+margin: 0 auto;
+}
+
+.card-item {
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.card-item img {
+width: 500px;
+object-fit: fill;
+height: 350px;
+margin: 0;
+border-radius: 10px;
+} */
